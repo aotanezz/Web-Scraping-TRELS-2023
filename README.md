@@ -10,3 +10,4 @@ There were 3 methods used to scrape the websites of their contents:
 NOTES:
 ONLY TO BE USED FOR EDUCATIONAL / DEMONSTRATIONAL PURPOSES
 This was used to determine the behavior and efforts of city councils, these agendas are public and available to download, this code serves to put thousands of documents into data than can be interpreted through textual analysis. 
+Only two csv's are small enough to be uploaded, they're included as examples of the codes purpose
